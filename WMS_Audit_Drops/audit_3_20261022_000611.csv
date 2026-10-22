@@ -1,0 +1,11 @@
+AuditNumber,sku,ProductName,UnitCost,ExpectedQty,ActualQty
+3,EXC-TRACK-102,Excavator Track Assembly,2500.0,116,116
+3,HYD-VALVE-100,Hydraulic Valve 2500psi,1350.0,73,73
+3,HYD-VALVE-099,Hydraulic Valve 2000psi,1350.0,195,195
+3,FILT-AIR-205,Industrial Air Filter Kit,600.0,184,184
+3,PNEU-CYL-404,Pneumatic Cylinder Heavy,1700.0,76,74
+3,SENS-TMP-088,Thermal Sensor Unit,1200.0,52,52
+3,GEAR-BOX-773,Heavy Duty Gearbox,3200.0,95,95
+3,BEAR-RLL-012,Roller Bearing Set,150.0,156,156
+3,SEAL-K-990,Master Seal Kit,85.0,124,124
+3,PUMP-WTR-332,Industrial Water Pump,950.0,142,142
