@@ -28,3 +28,13 @@ The goal of this project is to move beyond standard "net-variance" reporting—w
 1. Run `generate_audit_data.py` to generate a fresh batch of simulated cycle count CSV files in the `WMS_Audit_Drops` directory.
 2. Open the Power BI `.pbix` file.
 3. Refresh the data model to automatically ingest the new audit drops and update the dashboard visuals.
+
+## Dashboard Preview
+
+![Cycle count dashboard](screenshots/dashboard.png)
+
+## Data Model
+
+The model separates product and audit dimensions from cycle-count facts. Both dimensions have one-to-many relationships to `Fact_CycleCounts`.
+
+![Star schema model relationships](screenshots/star-schema.png)
